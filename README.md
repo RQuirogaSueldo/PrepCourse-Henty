@@ -1,2 +1,1 @@
-# PrepCourse-Henty
-Este es un repositorio del modulo2 del prepcourse de Henry
+Esta es una prueba para hacer commit al repositorio creado
